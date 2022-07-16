@@ -1,6 +1,6 @@
 # dotfiles
 ****
-      bare git repository to track dotfiles,you can find them on files branch
+bare git repository to track dotfiles,you can find them on [files branch](https://github.com/Chipskein/dotfiles/tree/files)
 ****
 ### How to set git bare repository to track dotfiles
 #### Create dotfiles local bare git repo
