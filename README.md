@@ -1,6 +1,6 @@
 # dotfiles
 ****
-      bare git repository to track dotfiles
+      bare git repository to track dotfiles,you can find them on files branch
 ****
 ### How to set git bare repository to track dotfiles
 #### Create dotfiles local bare git repo
