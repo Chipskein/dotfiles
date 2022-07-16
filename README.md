@@ -1,5 +1,7 @@
 # dotfiles
-
+****
+      bare git repository to track dotfiles
+****
 ### How to set git bare repository to track dotfiles
 #### Create dotfiles local bare git repo
       mkdir $HOME/dotfiles
@@ -11,5 +13,6 @@
       dotfile add remote <remote-url>
 #### Create Branch
       dotfile checkout -B files
+      
       
 
