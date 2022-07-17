@@ -104,3 +104,4 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 alias dotfile='/usr/bin/git --git-dir=/home/chipskein/dotfiles --work-tree=/home/chipskein'
+alias wifi='iwctl station wlan0 connect VETORIAL_380 && sudo dhcpcd'
