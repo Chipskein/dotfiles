@@ -1,11 +1,9 @@
 # dotfiles
-****
-bare git repository to track dotfiles,you can find them on [files branch](https://github.com/Chipskein/dotfiles/tree/files)
-****
+bare git repository to track dotfiles
 ### How to set git bare repository to track dotfiles
 #### Create dotfiles local bare git repo
       mkdir $HOME/dotfiles
-#### Snit git
+#### init repo
       git init --bare $HOME/dotfiles
 #### Set shell alias
       echo "alias dotfile='/usr/bin/git  --git-dir=$HOME/dotfiles --work-tree=$HOME'" >> $HOME/.zshrc
