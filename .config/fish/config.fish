@@ -19,3 +19,6 @@ set --export PATH $BUN_INSTALL/bin $PATH
 
 # The next line updates PATH for the Google Cloud SDK.
 if [ -f '/home/chipskein/Documents/gcloud/google-cloud-sdk/path.fish.inc' ]; . '/home/chipskein/Documents/gcloud/google-cloud-sdk/path.fish.inc'; end
+# Add my custom alias
+alias dotfile='/usr/bin/git --git-dir=/home/chipskein/sources/chipskein/dotfiles/.git --work-tree=/home/chipskein'
+alias wifi='sudo iwctl station wlan0 connect VETORIAL_380 && sudo dhcpcd'
