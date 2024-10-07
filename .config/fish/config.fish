@@ -22,3 +22,4 @@ if [ -f '/home/chipskein/Documents/gcloud/google-cloud-sdk/path.fish.inc' ]; . '
 # Add my custom alias
 alias dotfile='/usr/bin/git --git-dir=/home/chipskein/sources/chipskein/dotfiles/.git --work-tree=/home/chipskein'
 alias wifi='sudo iwctl station wlan0 connect VETORIAL_380 && sudo dhcpcd'
+alias init-graphics-tablet='xsetwacom set 9 MapToOutput 1920x1080+0+0 && xsetwacom set 9 Area 0 0 15200 8550'
