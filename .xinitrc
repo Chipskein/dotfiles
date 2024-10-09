@@ -1,6 +1,9 @@
 #!/bin/sh
 export EDITOR=vim
 export VISUAL=vim
+export AWT_TOOLKIT=MToolKit;
+export _JAVA_AWT_WM_NONREPARENTING=1;
+wmname LG3D; 
 exec xcompmgr &
 exec 
 while true ; do
