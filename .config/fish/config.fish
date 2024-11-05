@@ -8,6 +8,12 @@ export QTWEBENGINE_DISABLE_SANDBOX=1
 export QTWEBENGINE_CHROMIUM_FLAGS="–no-sandbox"
 export QT_SELECT=5
 
+# fly.io
+export FLYCTL_INSTALL="/home/chipskein/.fly"
+export PATH="$FLYCTL_INSTALL/bin:$PATH"
+
+
+
 
 # bun
 set --export BUN_INSTALL "$HOME/.bun"
