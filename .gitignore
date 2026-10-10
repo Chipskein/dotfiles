@@ -1,0 +1,2 @@
+# fish universal variables are machine state and hold secrets (API keys, connection strings)
+fish_variables
