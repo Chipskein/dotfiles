@@ -48,6 +48,10 @@ selection-background = "#44475a"
 selection-foreground = "#00ff2e"
 
 
+[shell]
+program = "/usr/local/bin/fish"
+args = ["--login"]
+
 [fonts]
 size = 15
 
