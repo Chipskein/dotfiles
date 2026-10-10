@@ -63,6 +63,10 @@ text = "CellForeground"
 cursor = "CellForeground"
 text = "CellBackground"
 
+[terminal.shell]
+program = "/usr/local/bin/fish"
+args = ["--login"]
+
 [font]
 size = 15.0
 
