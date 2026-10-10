@@ -9,3 +9,4 @@ SETUVAR --export SENTINEL_QUEUE:\x3ddownload_alternative
 SETUVAR --export SERVICEBUS_CONNECTION_STR:\x3dEndpoint\x3dsb\x3a//airedgeolab\x2eservicebus\x2ewindows\x2enet/\x3bSharedAccessKeyName\x3dRootManageSharedAccessKey\x3bSharedAccessKey\x3dwDs\x2b1n0F9XAzxzJPKhsVLHctXn553OxtAsgQAGVeJOw\x3d
 SETUVAR --export SERVICEBUS_QUEUE_NAME:\x3dproperties
 SETUVAR __fish_initialized:4300
+SETUVAR __fish_webconfig_theme_notification:set\x2dtheme\x2dv1\x2d\x231
