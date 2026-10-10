@@ -1,0 +1,56 @@
+[colors]
+# Primary
+background = "#282a36"
+foreground = "#00ff2e"
+
+# Normal
+black = "#000000"
+blue = "#bd93f9"
+cyan = "#8be9fd"
+green = "#50fa7b"
+magenta = "#ff79c6"
+red = "#ff5555"
+white = "#bfbfbf"
+yellow = "#f1fa8c"
+
+# Bright
+light-black = "#4d4d4d"
+light-blue = "#caa9fa"
+light-cyan = "#9aedfe"
+light-green = "#5af78e"
+light-magenta = "#ff92d0"
+light-red = "#ff6e67"
+light-white = "#e6e6e6"
+light-yellow = "#f4f99d"
+
+# Dim
+dim-black = "#14151b"
+dim-blue = "#4d5b86"
+dim-cyan = "#59dffc"
+dim-green = "#1ef956"
+dim-magenta = "#ff46b0"
+dim-red = "#ff2222"
+dim-white = "#e6e6d1"
+dim-yellow = "#ebf85b"
+
+# Cursor
+cursor = "#00ff2e"
+vi-cursor = "#00ff2e"
+
+# Search
+search-focused-match-background = "#ffb86c"
+search-focused-match-foreground = "#44475a"
+search-match-background = "#50fa7b"
+search-match-foreground = "#44475a"
+
+# Selection
+selection-background = "#44475a"
+selection-foreground = "#00ff2e"
+
+
+[fonts]
+size = 15
+
+
+[window]
+opacity = 0.87
