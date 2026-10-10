@@ -1,3 +1,6 @@
-[submodule "dwm-config"]
-	path = fragata/dwm-config
-	url = https://github.com/Chipskein/dwm-config
+[submodule "fragata/dwm-fragata"]
+	path = fragata/dwm-fragata
+	url = git@github.com:Chipskein/dwm-fragata.git
+[submodule "isidorus/dwm-isidorus"]
+	path = isidorus/dwm-isidorus
+	url = git@github.com:Chipskein/dwm-isidorus.git
