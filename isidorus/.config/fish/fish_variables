@@ -1,0 +1,14 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export API_KEY:117a98f8\x2d7385\x2d44ad\x2da164\x2d5c9217b3560f
+SETUVAR --export API_URL:\x3dhttps\x3a//lab\x2dapi\x2eaired\x2ecom\x2ebr/
+SETUVAR --export AZURE_FILES_CONN_STRING:DefaultEndpointsProtocol\x3dhttps\x3bAccountName\x3dlabairedgeolab\x3bAccountKey\x3d9GnoSTHUYPt54niZxN8zFyxlzI4kDZA\x2bcueUFLxPrnDMMk5IHWWbRwAAEieLFIpsMaM9MQ6122\x2bORCR1XPxG6w\x3d\x3d\x3bEndpointSuffix\x3dcore\x2ewindows\x2enet
+SETUVAR --export AZURE_FILES_STORAGE_DIRECTORY_JSON:\x3djson
+SETUVAR --export AZURE_FILES_STORAGE_SHARE_NAME:aired
+SETUVAR --export JAVA_HOME:/usr/lib/jvm/java\x2d21\x2dopenjdk
+SETUVAR --export NODE_OPTIONS:\x2d\x2ddns\x2dresult\x2dorder\x3dipv4first
+SETUVAR --export SENTINEL_QUEUE:\x3ddownload_alternative
+SETUVAR --export SERVICEBUS_CONNECTION_STR:\x3dEndpoint\x3dsb\x3a//airedgeolab\x2eservicebus\x2ewindows\x2enet/\x3bSharedAccessKeyName\x3dRootManageSharedAccessKey\x3bSharedAccessKey\x3dwDs\x2b1n0F9XAzxzJPKhsVLHctXn553OxtAsgQAGVeJOw\x3d
+SETUVAR --export SERVICEBUS_QUEUE_NAME:\x3dproperties
+SETUVAR __fish_initialized:4300
+SETUVAR fish_user_paths:/home/chipskein/\x2eopencode/bin\x1e/home/chipskein/go/bin

@@ -1,0 +1,20 @@
+# Stow default ignores
+\.git
+\.gitignore
+\.gitmodules
+\.cvsignore
+\.hgignore
+\.svn
+_darcs
+\.#.+
+#.*#
+RCS
+CVS
+CVS\.\#.+
+.+~
+^/README.*
+^/LICENSE.*
+^/COPYING
+
+# dwm source lives in its own repo (submodule); build it, do not symlink it
+^/dwm-isidorus
